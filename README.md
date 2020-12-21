@@ -1,5 +1,7 @@
-# SharkAttackAnalysis
+# Shark Attack Analysis
 
-# The Global Shark Attack File provides details on every recorded shark attack in the world. 
-# I found most of their information on this dataset (csv) on Kaggle (https://www.kaggle.com/teajay/global-shark-attacks).
-# My goal was to work with this data to learn more about shark attacks, and to practice data analysis with Python using pandas and matplotlib.
+The Global Shark Attack File provides details on every recorded shark attack in the world. All of the data was taken from the GSAF via a Kaggle dataset (https://www.kaggle.com/teajay/global-shark-attacks).
+
+My goal was to work with this dataset to practice data analysis with Python using pandas and matplotlib and to learn more about shark attacks.
+
+All code was written by me (N-Enzer).
