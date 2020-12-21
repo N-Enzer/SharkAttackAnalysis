@@ -4,7 +4,6 @@ The Global Shark Attack File provides details on every recorded shark attack in 
 
 The goal with this project was to practice data analysis with Python and to learn more about shark attacks. Both goals were accomplished.
 
-Shark Attacks.ipynb contains the code.
-attacks.csv contains the dataset.
+"Shark Attacks.ipynb" contains the code and "attacks.csv" contains the dataset.
 
 All code was written by me (N-Enzer).
