@@ -1,4 +1,4 @@
-# Shark Attack Analysis
+# Shark Attack Data Analysis
 
 The Global Shark Attack File provides details on every recorded shark attack in the human history. All of the data was taken from the GSAF via a Kaggle dataset (https://www.kaggle.com/teajay/global-shark-attacks).
 
